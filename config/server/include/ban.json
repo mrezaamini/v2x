@@ -1,7 +1,0 @@
-			{
-				"type": "field",
-				"domain": [
-					"domain:360.com"
-				],
-				"outboundTag": "blocked"
-			}
